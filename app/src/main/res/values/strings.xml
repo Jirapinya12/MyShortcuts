@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyShortcuts</string>
+    <string name="shortcut_short_label_main">MainActivity</string>
+    <string name="shortcut_short_label1">Activity 1</string>
+    <string name="shortcut_short_label2">Activity 2</string>
+    <string name="shortcut_short_label3">Activity 3</string>
+</resources>
